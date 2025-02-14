@@ -24,6 +24,9 @@ To get started with the Shopping Site on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/shopping-site-react.git
 
+![Uploading Screenshot 2025-02-14 014508.png…]()
+
+
 #Dependencies
 React: A JavaScript library for building user interfaces.
 
@@ -54,4 +57,4 @@ If you have any questions or feedback, feel free to reach out:
 
 Email: hosseinseyedzadeh93@gmail.com
 
-GitHub: 
+GitHub: hossein-rtp-19
