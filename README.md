@@ -24,7 +24,8 @@ To get started with the Shopping Site on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/shopping-site-react.git
 
-![Uploading Screenshot 2025-02-14 014508.png…]()
+![Screenshot 2025-02-14 014508](https://github.com/user-attachments/assets/f6524d04-38bf-44ac-b4ed-edd6178cdf3e)
+
 
 
 #Dependencies
