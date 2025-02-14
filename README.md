@@ -23,3 +23,35 @@ To get started with the Shopping Site on your local machine, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/shopping-site-react.git
+
+Dependencies
+React: A JavaScript library for building user interfaces.
+
+React Router: For handling routing within the application.
+
+Axios: For making HTTP requests to the backend API.
+
+Bootstrap: For styling and responsive design.
+
+Contributing
+We welcome contributions! If you'd like to contribute to the Shopping Site, please follow these steps:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeatureName).
+
+Commit your changes (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature/YourFeatureName).
+
+Open a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: 
+
+GitHub: 
